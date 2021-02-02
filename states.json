@@ -1,5 +1,5 @@
 {
-  "alabama":{"fips":1, "data":[]},
+  "alabama":{"fips":1, "data":{"date":"12-28-2004", "cases":"79", "deaths":"81"}},
   "alaska":{"fips":2, "data":[]},
   "arizona":{"fips":3, "data":[]},
   "arkansas":{"fips":53, "data":[]},
